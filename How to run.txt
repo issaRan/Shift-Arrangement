@@ -1,0 +1,2 @@
+For runing the program, you need to run the ShiftArrangment python file.
+I add a example Requests and Results files so it will be easier to understand their formats.
